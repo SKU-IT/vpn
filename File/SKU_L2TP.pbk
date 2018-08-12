@@ -132,7 +132,7 @@ Port=VPN1-0
 Device=WAN Miniport (L2TP)
 
 DEVICE=vpn
-PhoneNumber=172.16.0.1
+PhoneNumber=vpn.sku.ac.ir
 AreaCode=
 CountryCode=0
 CountryID=0
